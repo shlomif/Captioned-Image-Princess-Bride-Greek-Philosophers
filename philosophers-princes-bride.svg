@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,36 +65,40 @@
        x="5.7142863"
        y="3.7907627" />
     <image
-       y="56.362156"
-       x="53.047241"
-       id="image3204"
+       sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./princess-bride--vlcsnap-2014-08-23-06h33m33s62.jpg"
        xlink:href="princess-bride--vlcsnap-2014-08-23-06h33m33s62.jpg"
+       width="638"
        height="352"
-       width="638" />
+       id="image3204"
+       x="53.047241"
+       y="56.362156" />
     <g
        id="g3396"
        transform="translate(2.0755959,-118)">
       <image
-         width="200.19568"
-         height="265.71429"
+         sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./Aristotle_Altemps_Inv8575.jpg"
          xlink:href="Aristotle_Altemps_Inv8575.jpg"
-         id="image3250"
+         y="646.64789"
          x="258.80237"
-         y="646.64789" />
-      <image
-         width="199.28574"
+         id="image3250"
          height="265.71429"
+         width="200.19568" />
+      <image
+         sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./Socrates_Louvre.jpg"
          xlink:href="Socrates_Louvre.jpg"
-         id="image3312"
+         y="646.64789"
          x="473.80038"
-         y="646.64789" />
-      <image
-         width="177.14287"
+         id="image3312"
          height="265.71429"
+         width="199.28574" />
+      <image
+         sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./Plato_Silanion_Musei_Capitolini_MC1377.jpg"
          xlink:href="Plato_Silanion_Musei_Capitolini_MC1377.jpg"
-         id="image3378"
+         y="646.64789"
          x="66.85717"
-         y="646.64789" />
+         id="image3378"
+         height="265.71429"
+         width="177.14287" />
     </g>
     <text
        xml:space="preserve"
@@ -118,11 +122,11 @@
          sodipodi:role="line"
          x="354.28571"
          y="347.2193"
-         id="tspan3407">Plato,</tspan><tspan
+         id="tspan3407">Plato?</tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="427.2193"
-         id="tspan3405">Aristotle,</tspan><tspan
+         id="tspan3405">Aristotle?</tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="507.2193"
