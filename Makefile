@@ -1,4 +1,4 @@
-SVG = philosophers-princes-bride.svg
+SVG = philosophers-princess-bride.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
 
@@ -13,5 +13,5 @@ $(PNG): $(SVG)
 $(JPEG): $(PNG)
 	convert $(PNG) $(JPEG)
 
-upload: all
-	rsync --progress -v -a --inplace human-hacking-field-guide-logo.svg hhfg-ad.svg hhfg-ad.svg.png $(__HOMEPAGE_REMOTE_PATH)/hhfg-graphics-demo/
+# upload: all
+#	rsync --progress -v -a --inplace human-hacking-field-guide-logo.svg hhfg-ad.svg hhfg-ad.svg.png $(__HOMEPAGE_REMOTE_PATH)/hhfg-graphics-demo/
