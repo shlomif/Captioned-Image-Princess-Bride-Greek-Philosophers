@@ -9,7 +9,7 @@ edit it type:
 
     inkscape ./philosophers-princes-bride.svg
 
-Bust of Plato, Aristotle and Socrates are taken from the wikipiedia.
+Busts of Plato, Aristotle and Socrates are taken from the wikipiedia.
 Film still is from
 L<https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29> .
 
