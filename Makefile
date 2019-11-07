@@ -1,17 +1,18 @@
 SVG = philosophers-princess-bride.svg
 PNG = $(SVG).png
 JPEG = $(SVG).jpg
+WEBP = $(SVG).webp
 
 WIDTH = 400
 
-all: $(PNG) $(JPEG)
+all: $(PNG) $(JPEG) $(WEBP)
 
 $(PNG): $(SVG)
 	inkscape --export-png=$@ --export-width=400 $<
 	optipng $@
 
 $(JPEG): $(PNG)
-	convert $(PNG) $(JPEG)
+	gm convert $< $@
 
-# upload: all
-#	rsync --progress -v -a --inplace human-hacking-field-guide-logo.svg hhfg-ad.svg hhfg-ad.svg.png $(__HOMEPAGE_REMOTE_PATH)/hhfg-graphics-demo/
+$(WEBP): $(PNG)
+	gm convert $< $@
