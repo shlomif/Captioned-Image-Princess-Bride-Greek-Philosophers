@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="philosophers-princes-bride.svg"
+   inkscape:version="1.5-dev (a51c75fc4a, 2024-08-23, custom)"
+   sodipodi:docname="philosophers-princess-bride.svg"
    inkscape:export-filename="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./philosophers-princes-bride.png"
    inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150">
+   inkscape:export-ydpi="150"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,19 +28,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53308643"
-     inkscape:cx="555.33774"
-     inkscape:cy="502.13873"
+     inkscape:zoom="0.77729893"
+     inkscape:cx="372.44358"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-height="1029"
      inkscape:window-x="-4"
      inkscape:window-y="-6"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -58,7 +61,6 @@
      inkscape:groupmode="layer"
      id="layer1">
     <image
-       sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./princess-bride--vlcsnap-2014-08-23-06h33m33s62.jpg"
        xlink:href="princess-bride--vlcsnap-2014-08-23-06h33m33s62.jpg"
        y="56.362156"
        x="53.047241"
@@ -67,9 +69,8 @@
        width="638" />
     <g
        id="g3396"
-       transform="translate(2.0755959,-118)">
+       transform="translate(2.0755959,-96)">
       <image
-         sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./Aristotle_Altemps_Inv8575.jpg"
          xlink:href="Aristotle_Altemps_Inv8575.jpg"
          width="200.19568"
          height="265.71429"
@@ -77,7 +78,6 @@
          x="258.80237"
          y="646.64789" />
       <image
-         sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./Socrates_Louvre.jpg"
          xlink:href="Socrates_Louvre.jpg"
          width="199.28574"
          height="265.71429"
@@ -85,7 +85,6 @@
          x="473.80038"
          y="646.64789" />
       <image
-         sodipodi:absref="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./Plato_Silanion_Musei_Capitolini_MC1377.jpg"
          xlink:href="Plato_Silanion_Musei_Capitolini_MC1377.jpg"
          width="177.14287"
          height="265.71429"
@@ -95,54 +94,64 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#000000"
        x="354.28571"
        y="107.21931"
-       id="text3401"
-       sodipodi:linespacing="125%"><tspan
+       id="text3401"><tspan
          sodipodi:role="line"
          id="tspan3403"
          x="354.28571"
-         y="107.21931" /><tspan
+         y="107.21931"
+         style="font-size:64px;line-height:1.25"> </tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="187.2193"
-         id="tspan3437" /><tspan
+         id="tspan3437"
+         style="font-size:64px;line-height:1.25"> </tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="267.2193"
-         id="tspan3439">Have you heard of</tspan><tspan
+         id="tspan3439"
+         style="font-size:64px;line-height:1.25">Have you heard of</tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="347.2193"
-         id="tspan3407">Plato?</tspan><tspan
+         id="tspan3407"
+         style="font-size:64px;line-height:1.25">Plato?</tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="427.2193"
-         id="tspan3405">Aristotle?</tspan><tspan
+         id="tspan3405"
+         style="font-size:64px;line-height:1.25">Aristotle?</tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="507.2193"
-         id="tspan3409">Socrates?</tspan><tspan
+         id="tspan3409"
+         style="font-size:64px;line-height:1.25">Socrates?</tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="587.2193"
-         id="tspan3411" /><tspan
+         id="tspan3411"
+         style="font-size:64px;line-height:1.25"> </tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="667.2193"
-         id="tspan3413" /><tspan
+         id="tspan3413"
+         style="font-size:64px;line-height:1.25"> </tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="747.2193"
-         id="tspan3415" /><tspan
+         id="tspan3415"
+         style="font-size:64px;line-height:1.25"> </tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="827.2193"
-         id="tspan3417" /><tspan
+         id="tspan3417"
+         style="font-size:64px;line-height:1.25"> </tspan><tspan
          sodipodi:role="line"
          x="354.28571"
          y="907.2193"
-         id="tspan3435">Models!!</tspan></text>
+         id="tspan3435"
+         style="font-size:64px;line-height:1.25">Models!!</tspan></text>
   </g>
 </svg>
