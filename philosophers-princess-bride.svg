@@ -6,7 +6,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="1.5-dev (a51c75fc4a, 2024-08-23, custom)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="philosophers-princess-bride.svg"
    inkscape:export-filename="/home/shlomif/Docs/Images/Captioned-Images/Plato-Aristotle-Socrates--Models/./philosophers-princes-bride.png"
    inkscape:export-xdpi="150"
@@ -29,15 +29,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.77729893"
-     inkscape:cx="372.44358"
-     inkscape:cy="526.18109"
+     inkscape:cx="371.80033"
+     inkscape:cy="525.53784"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1029"
-     inkscape:window-x="-4"
-     inkscape:window-y="-6"
+     inkscape:window-height="1031"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -69,7 +69,7 @@
        width="638" />
     <g
        id="g3396"
-       transform="translate(2.0755959,-96)">
+       transform="translate(2.0755959,-60)">
       <image
          xlink:href="Aristotle_Altemps_Inv8575.jpg"
          width="200.19568"
@@ -152,6 +152,11 @@
          x="354.28571"
          y="907.2193"
          id="tspan3435"
-         style="font-size:64px;line-height:1.25">Models!!</tspan></text>
+         style="font-size:64px;line-height:1.25"></tspan><tspan
+         sodipodi:role="line"
+         x="354.28571"
+         y="987.2193"
+         style="font-size:64px;line-height:1.25"
+         id="tspan1">Models!!</tspan></text>
   </g>
 </svg>
